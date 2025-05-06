@@ -1,5 +1,5 @@
 # Sobre el proyecto:
-Trabajo universitario en equipo para la materia orientación a objetos 2.
+Trabajo práctico orientación a objetos 2.
 
 Consiste en el sistema de stock de un negocio de zapatillas, en el cual un cliente puede
 realizar compras, mientras que el administrador puede gestionar y monitorear los productos
